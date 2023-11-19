@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christian-727
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: through my email
 
 <!---
